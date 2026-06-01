@@ -2,7 +2,7 @@ import heapq
 import time
 import heapq
 
-from lab4_bai1 import coin_change_greedy
+from labcon.lab4_bai1 import coin_change_greedy
 
 def min_meeting_rooms(meetings):
     """
